@@ -1,0 +1,6 @@
+{
+  "name": "Sacred Word",
+  "description": "A complete, production-ready offline Bible app featuring high-contrast styling and local Room SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
